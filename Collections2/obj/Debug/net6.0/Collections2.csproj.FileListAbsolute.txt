@@ -1,0 +1,15 @@
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\bin\Debug\net6.0\Collections2.exe
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\bin\Debug\net6.0\Collections2.deps.json
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\bin\Debug\net6.0\Collections2.runtimeconfig.json
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\bin\Debug\net6.0\Collections2.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\bin\Debug\net6.0\Collections2.pdb
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.AssemblyInfoInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.AssemblyInfo.cs
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\refint\Collections2.dll
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.pdb
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\Collections2.genruntimeconfig.cache
+C:\Users\ibrah\OneDrive\Desktop\code\Collections\Collections2\obj\Debug\net6.0\ref\Collections2.dll
